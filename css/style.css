@@ -104,7 +104,8 @@ body {
   }
 
   .hero {
-    background: linear-gradient(0deg, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.1));
+    align-items: flex-end;
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1));
   }
 
   .hero .content .title img {
@@ -113,6 +114,10 @@ body {
 
   .hero .content p {
     margin-top: 1rem;
+  }
+
+  .hero .content a {
+    margin-bottom: 7rem;
   }
 }
 
