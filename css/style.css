@@ -99,6 +99,10 @@ body {
     font-size: 62.5%;
   }
 
+  body {
+    background-image: url('../img/mobile-nichigura.jpg');
+  }
+
   .hero {
     background: linear-gradient(0deg, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.1));
   }
