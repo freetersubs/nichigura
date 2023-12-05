@@ -107,7 +107,7 @@ body {
   .hero {
     /* align-items: flex-end; */
     background: linear-gradient(0deg, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.2));
-    /* min-height: 95vh; */
+    min-height: 95vh;
   }
 
   .hero .content .title img {
