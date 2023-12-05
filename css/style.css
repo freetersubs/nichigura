@@ -36,7 +36,7 @@ body {
   position: relative;
   background: -webkit-linear-gradient(
     0deg,
-    rgba(0, 0, 0, 0.6),
+    rgba(0, 0, 0, 0.4),
     rgba(0, 0, 0, 0)
   );
 }
@@ -71,6 +71,7 @@ body {
     rgba(64, 0, 64, 1) 60%
   );
   margin-bottom: 7rem;
+  margin-left: 1.5rem;
 }
 
 .hero .content .tra {
@@ -106,7 +107,7 @@ body {
 
   .hero {
     /* align-items: flex-end; */
-    background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+    background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));
     /* min-height: 95vh; */
   }
 
