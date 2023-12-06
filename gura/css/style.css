@@ -96,16 +96,16 @@ body {
 /* Media Queries */
 /* Laptop */
 @media (max-width: 1366px) {
-  html {
+  /* html {
     font-size: 75%;
-  }
+  } */
 }
 
 /* Tablet */
 @media (max-width: 768px) {
-  html {
+  /* html {
     font-size: 62.5%;
-  }
+  } */
 
   .hero {
     align-items: center;
