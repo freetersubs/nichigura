@@ -70,12 +70,11 @@ body {
     rgba(40, 124, 128, 1) 0%,
     rgba(64, 0, 64, 1) 60%
   );
-  margin-bottom: 6rem;
-  margin-left: 0.3rem;
+  margin-bottom: 7rem;
+  margin-left: 1.5rem;
 }
 
 .hero .content .tra {
-  /* margin-left: 0.5rem; */
   margin-top: 3rem;
   display: inline-block;
   padding: 1rem 3rem;
@@ -91,14 +90,14 @@ body {
 /* Laptop */
 @media (max-width: 1366px) {
   html {
-    font-size: 80%;
+    font-size: 75%;
   }
 }
 
 /* Tablet */
 @media (max-width: 768px) {
   html {
-    font-size: 67.5%;
+    font-size: 62.5%;
   }
 
   body {
@@ -127,7 +126,7 @@ body {
 /* Mobile */
 
 @media (max-width: 450px) {
-  /* html {
-    font-size: 60%;
-  } */
+  html {
+    font-size: 55%;
+  }
 }
