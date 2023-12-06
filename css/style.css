@@ -115,11 +115,12 @@ body {
   }
 
   .hero .content .title img {
-    width: 55%;
+    width: 65%;
   }
 
   .hero .content p {
     margin-top: 1rem;
+    text-shadow: 2px 2px 10px rgb(236, 229, 229);
   }
 }
 
