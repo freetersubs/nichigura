@@ -105,6 +105,8 @@ body {
     position: fixed;
     background-image: url('../img/mobile-nichigura.jpg');
     background-position: top;
+    background-size: cover;
+    background-repeat: no-repeat;
   }
 
   .hero {
