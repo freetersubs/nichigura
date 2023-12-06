@@ -86,6 +86,7 @@ body {
   .hero {
     align-items: center;
     background: linear-gradient(0deg, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0));
+    position: fixed;
   }
 
   .hero .image-container img {
